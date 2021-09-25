@@ -7,7 +7,7 @@ namespace Open_Lab_01._02
         public int Sum(int a, int b)
         {
             int výsledok = a + b;
-            return výsledok;
+            return výsledok
         }
     }
 }
